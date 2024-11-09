@@ -3,3 +3,18 @@
 * Git commands
 * Linux commands
 * DevOps
+
+### These are the commands to learn
+
+* ls
+* Ls stands for list
+* Ls has options such as -a, -h, -l etc
+* to see help for these options you can use the commands
+
+- example:
+
+```bash
+man ls 
+# man stands for manual
+# all commands have a manual (for the most part)
+```
