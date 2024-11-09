@@ -14,5 +14,7 @@
 - example:
 
 ```bash
-ls --help
+man ls 
+# man stands for manual
+# all commands have a manual (for the most part)
 ```
