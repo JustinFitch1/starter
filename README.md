@@ -18,3 +18,8 @@ man ls
 # man stands for manual
 # all commands have a manual (for the most part)
 ```
+
+### Homework
+* Go to youtube and watch videos on "linux"
+* Go to youtube and watch videos on "linux commands"
+* Go to youtube and watch videos on "linux vs windows" what is windows vs what is linux etc
