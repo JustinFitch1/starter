@@ -1,2 +1,5 @@
-this is where ill learn commands
-this is justin learning commands
+## This project is a learning project for learning the following
+
+* Git commands
+* Linux commands
+* DevOps
