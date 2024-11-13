@@ -20,6 +20,9 @@
 * man ls
 * man git
 
+* mkdir
+* rmdir
+
 - example:
 
 ```bash
