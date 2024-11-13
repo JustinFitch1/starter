@@ -20,8 +20,10 @@
 * man ls
 * man git
 
-* mkdir
-* rmdir
+* mkdir -> creates new folder (directory)
+* rmdir -> removes new folder (directory)
+
+* touch -> creates new file
 
 - example:
 
