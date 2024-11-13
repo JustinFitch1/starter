@@ -11,6 +11,15 @@
 * Ls has options such as -a, -h, -l etc
 * to see help for these options you can use the commands
 
+* find
+* find . -name \*myfile\*
+* . -> means current directory
+
+* man
+* man find
+* man ls
+* man git
+
 - example:
 
 ```bash
